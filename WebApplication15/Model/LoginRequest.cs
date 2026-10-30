@@ -1,4 +1,4 @@
-﻿namespace DNM.JWTAuthWebApp.Model
+﻿namespace DNM.JWTAuthRefreshTokenWebApp.Model
 {
     public class LoginRequest
     {
